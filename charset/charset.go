@@ -7,7 +7,7 @@
 //	import _ "github.com/triggit/go-charset/data"
 //
 // It can also made available in a data directory (by settting CharsetDir).
-package charset // import "github.com/triggit/go-charset"
+package charset // import "github.com/triggit/go-charset/charset"
 
 import (
 	"io"
